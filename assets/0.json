@@ -1,0 +1,19 @@
+{
+    "name": "MAN",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4jfKn4jpV9T2W7KkM1FdGpJPcvrdMtxxw3VyfwM1P2Mx",
+          "share": 100
+        }
+      ]
+    }
+  }
